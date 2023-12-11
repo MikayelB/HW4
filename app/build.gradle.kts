@@ -9,8 +9,8 @@ android {
 
     defaultConfig {
         applicationId = "com.example.cities_mobile_dubl2"
-        minSdk = 24
-        targetSdk = 33
+        minSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

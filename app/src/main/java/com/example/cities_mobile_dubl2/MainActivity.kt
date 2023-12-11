@@ -1,5 +1,6 @@
 package com.example.cities_mobile_dubl2
 
+import WelcomeScreen
 import android.Manifest
 import android.annotation.SuppressLint
 import android.content.pm.PackageManager
@@ -26,7 +27,7 @@ import com.example.cities_mobile_dubl2.constants.LOCATION_PERMISSION_REQUEST_COD
 import com.example.cities_mobile_dubl2.constants.SECOND_SCREEN_ROUTE
 import com.example.cities_mobile_dubl2.constants.WELCOME_SCREEN_ROUTE
 import com.example.cities_mobile_dubl2.ui.CitiesScreen
-import com.example.cities_mobile_dubl2.ui.WelcomeScreen
+//import com.example.cities_mobile_dubl2.ui.WelcomeScreen
 import com.example.cities_mobile_dubl2.viewmodel.WeatherViewModel
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
