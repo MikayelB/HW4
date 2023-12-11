@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cities_Mobile_Dubl2</string>
+    <string name="welcome_message">Welcome to the Cities!</string>
+    <string name="explore_cities">Explore Cities</string>
+</resources>
